@@ -4,7 +4,7 @@
 class Mammals
 {
 public:
-	int NumberOfLegs(int);
+	int NumberOfLegs(int); 
 	std::string Name(std::string);
 	
 private:

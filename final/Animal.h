@@ -1,6 +1,6 @@
 #pragma once
-#include "Breeds.h"
-class Lion : public Mammals
+#include "Breeds.h" //include the file breeds
+class Lion : public Mammals //all of this goes back to main
 {
 public:
 	bool Scary();
